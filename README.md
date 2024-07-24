@@ -6,60 +6,9 @@
   <p align="center">
     It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects. 
     <br/>
-    <strong>Site URL / Demo » </strong> 
-    <a href="https://Anshika-s1ngh.github.io/home">Anshika-s1ingh.github.io/home</a>
-    <br />
-    <br />
+    
 
 
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About the project</a>
-      <ul>
-        <li>
-          <a href="#technology-stack-">Technology Stack 🛠️</a>
-        </li>
-        <li>
-          <a href="#structure-">Structure ⚓</a>
-        </li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting started 💗</a>
-      <ul>
-        <li>
-          <a href="#prerequisites-">Prerequisites 🍪</a>
-        </li>
-        <li>
-          <a href="#setup-and-deployment-">Setup And Deployment 🔧</a>
-        </li>
-      </ul>
-    </li>
-    <li>
-      <a href="#support-my-work">Support my work</a>
-    </li>
-    <li>
-      <a href="#showcase-">Showcase 🚀</a>
-    </li>
-    <li>
-      <a href="#versão-em-português-brazil">Versão em Português :brazil:</a>
-    </li>
-    <li>
-      <a href="#notice">Notice</a>
-    </li>
-    <li>
-      <a href="#stargazers-over-time">Stargazers over time</a>
-    </li>
-  </ol>
-</details>
-
-# About the project
-
-[![Site preview](/public/social-image.png)](https://hashirshoaeb.github.io/home)
 
 
 ## Technology stack 🛠️
